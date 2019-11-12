@@ -121,8 +121,8 @@
         "umengKey": "5a1eb2c1a40fa31c24000115",
         "CPVersion": "1",
         "CPFooterSHowChipType": "1",
-        "homeUIType": "1",
-        "HuanFuDefaultColorType":"1",
+        "homeUIType": "2",
+        "HuanFuDefaultColorType":"2",
         "homeImageLink": "http:\/\/114.29.253.152\/m\/static\/img\/logo.png?v=190713082536",
         "loginImageLink": "http:\/\/114.29.253.152\/m\/static\/img\/logo-b.png?v=190713082536"
     },
