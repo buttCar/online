@@ -465,5 +465,16 @@
         "HuanFuDefaultColorType":"1",
         "homeImageLink": "https:\/\/6f6zz.com\/m\/static\/img\/logo.png?v=1907142031",
         "loginImageLink": "https:\/\/6f6zz.com\/m\/static\/img\/logo-b.png?v=1907142031"
+    },
+    "tyc": {
+        "orginDomain": ["http:\/\/103.248.20.193", "http:\/\/103.248.22.60", "http:\/\/103.248.22.58"],
+        "backupSiteCode": "yh",
+        "umengKey": "5d355e05570df3b61a0000bb",
+        "CPVersion": "1",
+        "CPFooterSHowChipType": "1",
+        "homeUIType": "2",
+        "HuanFuDefaultColorType":"2",
+        "homeImageLink": "http://103.248.22.58/m/static/img/logo.png?v=1910221306",
+        "loginImageLink": "http://103.248.22.58/m/static/img/logo.png?v=1910221306"
     }
 }
